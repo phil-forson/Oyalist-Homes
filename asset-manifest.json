@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Oyalist-Homes/static/css/main.56036ff3.css",
+    "main.js": "/Oyalist-Homes/static/js/main.6b8213a9.js",
+    "static/js/787.fda72b9c.chunk.js": "/Oyalist-Homes/static/js/787.fda72b9c.chunk.js",
+    "static/media/Quentin.woff": "/Oyalist-Homes/static/media/Quentin.744599b36163e5ba10ce.woff",
+    "static/media/Quentin.woff2": "/Oyalist-Homes/static/media/Quentin.fd86313cf56eb14d686a.woff2",
+    "static/media/product5.jpg": "/Oyalist-Homes/static/media/product5.205377926af1e4478c53.jpg",
+    "static/media/product4.jpg": "/Oyalist-Homes/static/media/product4.f4b02b1d39ed1c486354.jpg",
+    "static/media/product3.jpg": "/Oyalist-Homes/static/media/product3.54c30d21f949f9aba503.jpg",
+    "static/media/oyalogo.png": "/Oyalist-Homes/static/media/oyalogo.67ca92274aa5bbb193af.png",
+    "static/media/product11.jpg": "/Oyalist-Homes/static/media/product11.9b80047084f74c28f850.jpg",
+    "static/media/product6.jpg": "/Oyalist-Homes/static/media/product6.130389bb8663fa7f61ea.jpg",
+    "static/media/slider4.jpg": "/Oyalist-Homes/static/media/slider4.c17094de8a2ca9af7b52.jpg",
+    "static/media/widget5.jpg": "/Oyalist-Homes/static/media/widget5.58c3db3a5c72e603de24.jpg",
+    "static/media/blog4.jpg": "/Oyalist-Homes/static/media/blog4.f4b4b6c15705b2fbba43.jpg",
+    "static/media/banner4.jpg": "/Oyalist-Homes/static/media/banner4.9b63e627a99b981cdff8.jpg",
+    "index.html": "/Oyalist-Homes/index.html",
+    "static/media/listing-label.svg": "/Oyalist-Homes/static/media/listing-label.b3294cf39fae0540c90b.svg",
+    "main.56036ff3.css.map": "/Oyalist-Homes/static/css/main.56036ff3.css.map",
+    "main.6b8213a9.js.map": "/Oyalist-Homes/static/js/main.6b8213a9.js.map",
+    "787.fda72b9c.chunk.js.map": "/Oyalist-Homes/static/js/787.fda72b9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56036ff3.css",
+    "static/js/main.6b8213a9.js"
+  ]
+}
